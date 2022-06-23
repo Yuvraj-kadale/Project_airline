@@ -36,7 +36,7 @@
 <h3 align="center">Project Airline</h3>
 
   <p align="center">
-    project_descriptionARS stands for Airline Reservation System, and it allows an airline to sell its inventory (seats).It has schedules and rates information, as well as a database of reservations (passenger namerecords) and tickets issued.
+    ARS stands for Airline Reservation System, and it allows an airline to sell its inventory (seats).It has schedules and rates information, as well as a database of reservations (passenger namerecords) and tickets issued.
     <br />
     <a href="https://github.com/Yuvraj-kadale/Project_airline"><strong>Explore the docs »</strong></a>
     <br />
