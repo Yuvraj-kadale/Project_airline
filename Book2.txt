@@ -1,0 +1,9 @@
+﻿username,flight number,from,to,date departure,date return,ticket price
+Alberto,A345,London,Cairo,16/11/2021,18/11/2021,RM100
+Alberto,A348,London,Cairo,20/11/2021,21/11/2021,RM400
+Adel,A347,Uk,Australia,19/11/2021,20/11/2021,RM300
+Hanna,A345,London,Cairo,16/11/2021,18/11/2021,RM100
+Hanna,A347,Uk,Australia,19/11/2021,20/11/2021,RM300
+A123,A345,London,Cairo,16/11/2021,18/11/2021,RM100
+H123,A347,Uk,Australia,19/11/2021,20/11/2021,RM300
+H123,A348,London,Cairo,20/11/2021,21/11/2021,RM400

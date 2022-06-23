@@ -1,0 +1,5 @@
+﻿flight number,from,to,date departure,date return,ticket price
+A345,London,Cairo,16/11/2021,18/11/2021,RM100
+A346,US,Canada,17/11/2021,19/11/2021,RM200
+A347,Uk,Australia,19/11/2021,20/11/2021,RM300
+A348,London,Cairo,20/11/2021,21/11/2021,RM400
